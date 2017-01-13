@@ -12,6 +12,7 @@ I've made 2 critical changes:
 - Including [jekyll-admin](https://github.com/jekyll/jekyll-admin) by default. It will help us to manage our blogs locally.
 - Unlike [online-cv](https://github.com/sharu725/online-cv/), information about CVs/Resumes is separated from the code. So it's easier for users to update.
 
+I'm currently using this theme for my own blog at [https://bigsonata.com](https://bigsonata.com)
 
 ### Front page
 ![](img/tutorial/theme/home.png)
